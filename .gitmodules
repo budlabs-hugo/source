@@ -1,0 +1,9 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:budlabs-hugo/budlabs-hugo.github.io.git
+[submodule "content"]
+	path = content
+	url = git@github.com:budlabs-hugo/content.git
+[submodule "themes/blht"]
+	path = themes/blht
+	url = git@github.com:budlabs-hugo/theme.git
